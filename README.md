@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Thomas-Akpi Tedjere Tamaraebi
 
-![ChatGPT Image Jan 29, 2026, 07_38_50 PM (2)](https://github.com/user-attachments/assets/13c1cefd-00a6-4d4e-93f7-38b7e8b53245)
+![my profile picture](https://github.com/user-attachments/assets/225d3329-5ca5-45c8-8154-6b5a64bfe545)
+
 
 
 ### 🌐 Data Analyst | Power BI Developer | SQL Developer | Financial & Investment Analyst | Accounting Professional
