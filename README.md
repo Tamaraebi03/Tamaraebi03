@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thomas-Akpi Tedjere Tamaraebi
+# 👋 Hi, I'm Thomas-Akpi Tamaraebi Tedjere
 
 ![my profile picture](https://github.com/user-attachments/assets/225d3329-5ca5-45c8-8154-6b5a64bfe545)
 
