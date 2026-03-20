@@ -61,7 +61,7 @@ Developed an interactive Financial Analysis Dashboard using the US Superstore da
 - Dynamic visualizations for business decision-making  
 
 ### 📂 Project File
-🔗 [Download Excel Dashboard](https://github.com/Tamaraebi03/Tamaraebi03/raw/refs/heads/main/US%20STORES%20DATA%20ANALYSIS.xlsx)
+https://github.com/Tamaraebi03/Excel-project#
 ---
 
 ## ✈️ Airline Passenger Data Analysis
