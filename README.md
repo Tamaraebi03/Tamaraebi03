@@ -71,7 +71,9 @@ https://github.com/Tamaraebi03/Excel-project#
 - Extracted airline operational data using **SQL queries**
 - Analyzed **passenger trends and performance metrics**
 - Generated insights to support **service optimization**
-
+  
+### 📂 Project File
+https://github.com/Tamaraebi03/SQL-Project
 ---
 
 # 📝 Latest Article
