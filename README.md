@@ -42,16 +42,26 @@ My goal is to bridge the gap between **finance and data**, using analytics to dr
 
 # 💡 Featured Projects
 
-## 🏬 US Superstore Financial Analysis Dashboard
+## 📊 US Superstore Financial Analysis Dashboard
 
-**Tools:** Excel | Pivot Tables | Charts | Dashboard Design
+**Tools:** Excel | Pivot Tables | Charts | Dashboard Design  
 
-- Developed an interactive **Financial Analysis Dashboard** using the US Superstore dataset to evaluate business performance.
-- Analyzed **revenue, profit, and profit margin** across different regions and product categories.
-- Built visualizations including **sales trends, regional performance comparisons, and product category distribution**.
-- Identified **top customers by revenue** and regions with the **highest and lowest sales performance**.
-- Designed dashboard filters for **state and region selection** to enable dynamic business insights.
+### 📌 Project Overview
+Developed an interactive Financial Analysis Dashboard using the US Superstore dataset to evaluate business performance.
 
+### 🔍 Key Insights
+- Revenue, profit, and profit margin analysis across regions and categories  
+- Sales trend analysis over time  
+- Regional performance comparison  
+- Product category distribution insights  
+- Identification of top customers by revenue  
+
+### ⚙️ Features
+- Interactive dashboard with filters (State & Region)  
+- Dynamic visualizations for business decision-making  
+
+### 📂 Project File
+🔗 [Download Excel Dashboard](https://github.com/Tamaraebi03/Tamaraebi03/raw/refs/heads/main/US%20STORES%20DATA%20ANALYSIS.xlsx)
 ---
 
 ## ✈️ Airline Passenger Data Analysis
