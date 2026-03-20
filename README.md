@@ -44,6 +44,10 @@ My goal is to bridge the gap between **finance and data**, using analytics to dr
 
 ## 📊 US Superstore Financial Analysis Dashboard
 
+<img width="853" height="575" alt="us stores data" src="https://github.com/user-attachments/assets/638de376-1a3f-42c3-9b99-d1a681e852f9" />
+
+
+
 **Tools:** Excel | Pivot Tables | Charts | Dashboard Design  
 
 ### 📌 Project Overview
